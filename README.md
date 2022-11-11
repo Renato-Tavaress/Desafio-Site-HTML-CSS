@@ -22,4 +22,4 @@ Além de outros recursos falados nas aulas!
 **Estrutura das páginas**    
   Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo template.html para utilizar como base.   
   
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site!
+Desafio está lançado! Com tudo que aprendemos, é perfeitamente possível criar este site!
